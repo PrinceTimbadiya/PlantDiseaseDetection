@@ -1,0 +1,10 @@
+# AI/ML core
+tensorflow==2.19.0
+numpy
+
+# Image Processing
+opencv-python==4.11.0.1
+pillow
+
+# Web App
+streamlit==1.46.1
